@@ -75,3 +75,47 @@ button{
 
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
     .show {display:block;}
+
+
+/* movie content */
+#box{
+    margin-left: 450px;
+    height: 180px;
+    width: 70px;
+}
+
+#imgbox{
+    height: 180px;
+    width: 150px;
+}
+
+#title{
+    margin-top: 0px;
+    margin-left: -150px;
+}
+
+.greycol{
+    color: grey;
+    margin-top: 4%;
+}
+
+#nocolr{
+    color: black;
+    margin-top: 4%;
+}
+
+#marginleft{
+    margin-left: -30%;
+    margin-top: 4%;
+}
+
+#bluecol{
+    color:#3498DB;
+    margin-left: -7%;
+    margin-top: 4%;
+}
+
+#trailbtn{
+    width: 90vh;
+    text-align: center;
+}
